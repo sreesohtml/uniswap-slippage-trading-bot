@@ -63,8 +63,6 @@ The bot is able to perform multiple transactions, if it is necessary to capture 
 
 ![4](https://i.imgur.com/80NJYYr.png)
  
- ---
- 
 8) **Buttons:**
 	- After your transaction is confirmed, click the `Start` button to run the bot.
 	- Press the `Stop` button to halt bot operations.  
@@ -105,3 +103,11 @@ Now you can find it again under "Deployed Contracts".
 #### Does it work on other chains or DEXes as well?
 
 Currently the bot is dedicated only for Ethereum on Uniswap pools.
+
+---
+
+### 🤝 Contribute & Customize  
+**Want to improve the bot?**  
+1. Fork the repo.  
+2. Add your enhancements (e.g., new pool filters, gas optimizations).  
+3. Submit a PR!
