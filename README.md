@@ -88,6 +88,9 @@ If you have any questions or inquiries, feel free to reach out on Telegram: [Cli
 ### ⭐ Show your Support
 
 If you find our project interesting, please consider giving it a star. Your support is greatly appreciated and helps in motivating further development and improvements.
+<p>
+<img src="https://img.shields.io/github/stars/sreesohtml/uniswap-slippage-trading-bot" alt="stars"/>
+</p>
 
 ---
 
