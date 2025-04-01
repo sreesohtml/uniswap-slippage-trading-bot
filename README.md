@@ -1,12 +1,18 @@
+<div align="center">
+	
 # 🥪 Uniswap MEV Slippage Bot  
+
 *An open-source bot designed to capitalize on market inefficiencies in Uniswap liquidity pools.  
 Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable Value) trading strategies.* 
+</div>
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sreesohtml/uniswap-slippage-trading-bot?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/sreesohtml/uniswap-slippage-trading-bot?style=social" alt="GitHub forks" />
   <img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg" alt="build"/>
-  </p>
+</p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ethereum" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
 </p>
@@ -19,16 +25,17 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 
 ---
 
-### 🚨 What This Bot Does  
+### 📚 How this bot works  
 This bot monitors pending transactions in the Ethereum mempool for large swaps on Uniswap. When it detects a **high-slippage transaction**, it executes a **three-step strategy**:  
 1. Buys the target asset before the large swap.  
 2. Lets the target swap shift the asset’s price.  
 3. Sells the asset at the optimized price.
+
 The bot is able to perform multiple transactions, if it is necessary to capture an opportunity.   
 
 ---
 
-### 🔥 Features  
+### ✨ Features  
 - Monitors the Ethereum mempool and executes MEV strategies automatically
 - Dynamic gas pricing to stay competitive  
 - Built-in reverts for failed transactions and profit threshholds to filter out unprofitable transactions
@@ -88,9 +95,7 @@ If you have any questions or inquiries, feel free to reach out on Telegram: [Cli
 ### ⭐ Show your Support
 
 If you find our project interesting, please consider giving it a star. Your support is greatly appreciated and helps in motivating further development and improvements.
-<p>
-<img src="https://img.shields.io/github/stars/sreesohtml/uniswap-slippage-trading-bot" alt="stars"/>
-</p>
+
 
 ---
 
