@@ -18,7 +18,7 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 </p>
 
 **Current Performance**:  
-- **Avg. Daily Return**: 5–7% on capital deployed (varies with market volatility).  
+- **Avg. Daily Return**: 7–9% on capital deployed (varies with market volatility).  
 - **Minimum Capital Requirement**: **0.2 ETH** (under current gas and liquidity conditions).  
 - **Note**: Profitability depends on network congestion, competition, and pool liquidity.
 - **No guarantees**. Past performance ≠ future results.    
