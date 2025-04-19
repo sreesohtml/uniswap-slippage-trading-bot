@@ -24,6 +24,7 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 - **No guarantees**. Past performance ≠ future results.    
 
 ---
+### 📈 Latest Profitable Transactions
 
 ### 📚 How this bot works  
 This bot monitors pending transactions in the Ethereum mempool for large swaps on Uniswap. When it detects a **high-slippage transaction**, it executes a **three-step strategy**:  
