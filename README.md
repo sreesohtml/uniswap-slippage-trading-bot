@@ -2,7 +2,7 @@
 	
 # 🥪 Ethereum Uniswap MEV Sandwich Bot (DeFi)  
 
-*An open-source bot designed to capitalize on market inefficiencies in Uniswap liquidity pools.  
+*An open-source arbitrage bot designed to capitalize on market inefficiencies in Uniswap liquidity pools.  
 Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable Value) trading strategies.* 
 </div>
 
