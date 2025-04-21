@@ -9,7 +9,6 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 <p align="center">
   <img src="https://img.shields.io/github/stars/sreesohtml/uniswap-slippage-trading-bot?style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/github/forks/sreesohtml/uniswap-slippage-trading-bot?style=social" alt="GitHub forks" />
-  <img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg" alt="build"/>
 </p>
 
 <p align="center">
