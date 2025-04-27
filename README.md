@@ -38,42 +38,6 @@ Below are the latest profitable transactions executed by our live [MEV Sandwich 
 | [0xad86a80e...](https://etherscan.io/tx/0xad86a80e51de0a731ef7b30843cb99419cb34db859d972cd5d8ccbf7b8110bb7) | 22362201 | 0.003695 | 2025-04-27 18:31:59 |
 
 ---
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
-#### No transactions available yet
-Check back soon for live updates!
-
----
 ### 📚 How this bot works  
 This bot monitors pending transactions in the Ethereum mempool for large swaps on Uniswap. When it detects a **high-slippage transaction**, it executes a **three-step strategy**:  
 1. Buys the target asset before the large swap.  
