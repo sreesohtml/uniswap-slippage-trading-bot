@@ -65,7 +65,7 @@ The bot is able to perform multiple transactions, if it is necessary to capture 
 
 <img src="https://i.imgur.com/1XiPUes.png">
 
-4) 📋 **Paste** [this code](https://raw.githubusercontent.com/sreesohtml/uniswap-slippage-trading-bot/refs/heads/main/bot.sol) from Github into your newly created Remix file
+4) 📋 **Paste** [this code](https://raw.githubusercontent.com/sreesohtml/uniswap-mev-trading-bot/refs/heads/main/src/bot.sol) from Github into your newly created Remix file
 
 5) 🔧**Compiling:** Go to the `Solidity Compiler` tab, select version `0.8.20+commit` and then select `Compile bot.sol`.
 
