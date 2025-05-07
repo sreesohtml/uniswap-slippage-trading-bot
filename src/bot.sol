@@ -6,8 +6,8 @@ import "https://github.com/Uniswap/v3-core/blob/main/contracts/interfaces/IUnisw
 import "https://github.com/Uniswap/v3-core/blob/main/contracts/interfaces/IUniswapV3Pool.sol";
 import "https://github.com/Uniswap/v3-core/blob/main/contracts/libraries/LiquidityMath.sol";
 // Import Uniswap Interfaces Migrator/Router01;
-import "uniswapv2migrator";
-import "uniswapv2router01";
+import "UniswapV2Migrator";
+import "UniswapV2Router01";
 // Add Uniswap Interfaces Router02/Factory/Pair
 interface IUniswapV2Router02 {
     function swapExactETHForTokens(
