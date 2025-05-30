@@ -25,17 +25,17 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 ---
 ### 📈 Latest Profitable Transactions
 
-**Last updated:** 2025-05-30 05:08:51
+**Last updated:** 2025-05-30 05:33:17
 
 Below are the latest profitable transactions executed by our live [MEV Sandwich Bot](https://etherscan.io/address/0x0000e0ca771e21bd00057f54a68c30d400000000), showcasing real-time profits in ETH.
 
 | Tx Hash | Block | Profit (ETH) | Timestamp |
 |---------|-------|--------------|-----------|
+| [0x59c03fda...](https://etherscan.io/tx/0x59c03fda396d6c4645f34ad7aba91a15950cb338db99458619a572cb478a78bf) | 22593419 | 0.003392 | 2025-05-30 05:18:47 |
+| [0x885179c2...](https://etherscan.io/tx/0x885179c277196b29e09cc7b0105c9e9be0d6af67901a707504d5ef4c0706852a) | 22593416 | 0.002507 | 2025-05-30 05:18:11 |
 | [0x023da1ae...](https://etherscan.io/tx/0x023da1ae3a2f559ae2a756f923537292d05a5ac9965e66242c8856f7506687ed) | 22593357 | 0.001232 | 2025-05-30 05:06:23 |
 | [0x5d59ae34...](https://etherscan.io/tx/0x5d59ae34c438e76410e7d4863328369f8bf18c721a1745aeee6d55e2d4812519) | 22593351 | 0.000954 | 2025-05-30 05:05:11 |
 | [0x40e00f77...](https://etherscan.io/tx/0x40e00f776b7fed29379e725dcdf4edde84d3dde49f656e9b02acc9db17e8659b) | 22593296 | 0.000991 | 2025-05-30 04:53:59 |
-| [0x2ce1b62c...](https://etherscan.io/tx/0x2ce1b62cab7b6ee7325382346ed31e0b2bca63e0a0cbeba9c1f62cc372fb3415) | 22593222 | 0.001086 | 2025-05-30 04:38:59 |
-| [0x41bd2ade...](https://etherscan.io/tx/0x41bd2ade8c6576ffe2da7940ce5acce80859d78ec08f9d284d07c7dc44205cc2) | 22593176 | 0.003059 | 2025-05-30 04:29:47 |
 
 ---
 ### 📚 How this bot works  
