@@ -25,17 +25,17 @@ Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable
 ---
 ### 📈 Latest Profitable Transactions
 
-**Last updated:** 2025-06-04 05:57:06
+**Last updated:** 2025-06-04 06:37:56
 
 Below are the latest profitable transactions executed by our live [MEV Sandwich Bot](https://etherscan.io/address/0x0000e0ca771e21bd00057f54a68c30d400000000), showcasing real-time profits in ETH.
 
 | Tx Hash | Block | Profit (ETH) | Timestamp |
 |---------|-------|--------------|-----------|
-| [0xe9c81839...](https://etherscan.io/tx/0xe9c81839e6d29ffd8ba97f4d81399654c6508b8570d326c22f99ea14b531c7d8) | 22629294 | 0.003698 | 2025-06-04 05:48:11 |
-| [0x93735110...](https://etherscan.io/tx/0x93735110723f7841eb901833db78747c82263a9875701d9abc60cac5acce5da4) | 22629259 | 0.002574 | 2025-06-04 05:41:11 |
-| [0xbe9c7195...](https://etherscan.io/tx/0xbe9c7195e9415e465543e197c4c70f026e2d493311b922d12e01fdef89fa91e0) | 22629219 | 0.002208 | 2025-06-04 05:33:11 |
-| [0x471ac7f4...](https://etherscan.io/tx/0x471ac7f440f8ab28b92eeb6e4c019f9030ac6b20836072f2675ee1640dfeb743) | 22629186 | 0.000991 | 2025-06-04 05:26:35 |
-| [0x1d83675f...](https://etherscan.io/tx/0x1d83675fee1a5a9691d1b416bfa0ff7c43b90f8a35129e55578c8ca682f99caf) | 22629088 | 0.002875 | 2025-06-04 05:06:47 |
+| [0x44396f2e...](https://etherscan.io/tx/0x44396f2e7ba4b83704950a1b422b3392d95b0c5e619d5dfca299be5c06fa23ae) | 22629489 | 0.00473 | 2025-06-04 06:27:23 |
+| [0x3ecb5273...](https://etherscan.io/tx/0x3ecb527304d34670dbcbbb34c7e73393829a2282e8d90382d857e35c6c77532f) | 22629449 | 0.001632 | 2025-06-04 06:19:23 |
+| [0x65ae057b...](https://etherscan.io/tx/0x65ae057b1a849b3c16222cb19d3c56d72749a1212f8af70e33af03a7e7b895d8) | 22629424 | 0.000849 | 2025-06-04 06:14:23 |
+| [0x534e3bb7...](https://etherscan.io/tx/0x534e3bb7563862b6c94fc4040bf5dc5769eae33a945c1e814eb860bcb8807aa6) | 22629339 | 0.004301 | 2025-06-04 05:57:23 |
+| [0xb6fc4c46...](https://etherscan.io/tx/0xb6fc4c469dfcc8d75b27b34e1bfbb4f4e7a7eb8e2930a20363a98222d2196dbf) | 22629337 | 0.002246 | 2025-06-04 05:56:59 |
 
 ---
 ### 📚 How this bot works  
